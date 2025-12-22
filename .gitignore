@@ -1,0 +1,10 @@
+# ignore workspace internal files
+.metadata/
+
+# ignore compiled code
+bin/
+*.class
+
+# ignore OS specific files
+Thumbs.db
+.DS_Store
